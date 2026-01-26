@@ -47,8 +47,19 @@ body {
 
 .calculation,
 .answer {
-  width: 100%;
+  width: 90%;
   height: 50%;
+  color: #fff;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.calculation {
+  font-size: 30px;
+}
+
+.answer {
+  font-size: 40px;
 }
 
 .buttons {
@@ -64,10 +75,26 @@ body {
 .buttons .btn {
   width: 20%;
   height: 87%;
-  font-size: 25px;
   border-radius: 50%;
   background-color: hsl(25, -34%, 19%);
   color: #fff;
+}
+
+.buttons .number,
+.buttons .delete,
+.buttons .clear,
+.buttons .equal {
+  font-size: 25px;
+}
+
+.buttons .operand,
+.buttons .percent {
+  font-size: 32px;
+}
+
+.buttons .equal {
+  width: 45%;
+  border-radius: 30px;
 }
 
 .row {
