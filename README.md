@@ -29,4 +29,4 @@ Additional functionality:
 - Users can undo their last input using a backspace button.
 - Users can clear current input and operations using the "clear all" button.
 
-  The calculator evaluates one operation at a time and displays result before continuing with the next calculation, mimicking the behavior of a standard handheld calculator.
+The calculator evaluates one operation at a time and displays result before continuing with the next calculation, mimicking the behavior of a standard handheld calculator.
