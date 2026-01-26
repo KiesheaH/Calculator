@@ -6,8 +6,6 @@ This project is a browser-based calculator that performs basic arithmetic operat
 
 The calculator processes user input, storing values internally and updating the display dynamically as buttons are pressed.
 
----
-
 ## Features
 
 The calculator supports the following operations:
