@@ -1,4 +1,4 @@
-# Odin Calculator
+# Calculator
 
 ## Overview
 
